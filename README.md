@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
--- Hey this is your friendly neighbourhood 0x001ee
--- I am currently working on AI companion/waifu who aims to be your buddy by side. Imagine an character with you on your dekstop, phone/mobile app, and even hardware(aka alexa). A forever companion. 
--- Love working/building colloborating on random stuff across crypto ecosystem.
+- Hey this is your friendly neighbourhood 0x001ee
+- I am currently working on AI companion/waifu who aims to be your buddy by side. Imagine an character with you on your dekstop, phone/mobile app, and even hardware(aka alexa). A forever companion. 
+- Love working/building colloborating on random stuff across crypto ecosystem.
+- Enjoy talking about new ideas, no matter how dumb they sound.
 
