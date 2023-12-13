@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 - Hey this is your friendly neighbourhood 0x001ee
 - Currently Tweaking aroung with AI companion/waifu. Aim to build a sophisticated self understanding/learning ai companion for myself. Maybe someday can productize it and build a 
-  marketplace for human replica's waifu all powered via decentralized money. 
+  marketplace for human replica's waifu all powered via decentralized money.[On back-burner for now]
+- Building socialfi
 - Love working/building colloborating on random stuff across crypto ecosystem.
 - Enjoy talking about new ideas, no matter how dumb they sound.
 
